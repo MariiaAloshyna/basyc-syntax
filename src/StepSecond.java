@@ -15,13 +15,13 @@ public class StepSecond {
 
         System.out.println("Initial value of x: " + x);
 
-        System.out.println("pre-increment operation result is " + (++x) +" ; and after pre-increment x = " + x);
+        System.out.println("pre-increment operation result is " + (++x) + " ; and after pre-increment x = " + x);
 
-        System.out.println("post-increment operation result is " + (x++) +" ; and after post-increment x = " + x);
+        System.out.println("post-increment operation result is " + (x++) + " ; and after post-increment x = " + x);
 
-        System.out.println("pre-decrement operation result is " + (--x) +" ; and after pre-decrement x = " + x);
+        System.out.println("pre-decrement operation result is " + (--x) + " ; and after pre-decrement x = " + x);
 
-        System.out.println("post-decrement operation result is " + (x--) +" ; and after post-dedcrement x = " + x);
+        System.out.println("post-decrement operation result is " + (x--) + " ; and after post-dedcrement x = " + x);
 
     }
 }
